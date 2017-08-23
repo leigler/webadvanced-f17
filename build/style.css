@@ -1,18 +1,32 @@
 /* STYLE */
 
-body, html{
-	font-family: times new roman;
-	font-weight: normal;
-	background-color: white;
 
+
+body, html{
+	font-family: Times New Roman;
+	font-weight: normal;
+	background-color: black;
+	color: gray;
+
+
+}
+
+::-moz-selection { /* Code for Firefox */
+    color: black;
+    background: red;
+}
+
+::selection {
+    color: black; 
+    background: red;
 }
 
 
 body{
 	opacity: 0;
-	transform: translateY(20px);
-	-webkit-transform: translateY(20px);
-	-moz-transform: translateY(20px);
+	transform: translate(40px, 40px);
+	-webkit-transform: translate(40px, 40px);
+	-moz-transform: translate(40px, 40px);
 	transition: opacity 0.6s ease-out, transform 0.6s ease-out;
 	-webkit-transition: opacity 0.6s ease-out, transform 0.6s ease-out;
 	-moz-transition: opacity 0.6s ease-out, transform 0.6s ease-out;
@@ -40,7 +54,7 @@ h2{
 	max-width: 1000px;
 	margin-bottom: 30px;
 	margin-top: 120px;
-	border-top: 1px solid black;
+	border-top: 1px solid red;
 	padding-top: 15px;
 
 
@@ -53,7 +67,7 @@ p, h3, ul{
 	margin: 0 auto;
 	text-align: left;
 	font-size: 30px;
-	line-height: 37px;
+	line-height: 40px;
 	font-weight: normal;
 	max-width: 1000px;
 	margin-bottom: 15px;

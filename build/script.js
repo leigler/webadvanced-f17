@@ -15,7 +15,8 @@ $.when($.ajax({
  })).then(function(){
 
 	$("body").css({"opacity" : 1, 
-					"transform" : "translateY(0px)"})
+					"transform" : "translateY(0px)",
+					"transform" : "translateX(0px)"})
 
 })
 
