@@ -15,6 +15,25 @@ This course will focus on extending students' knowledge of code to web and 
 ## Projects {projects}
 
 ## Schedule {schedule}
+### As the semester continues, this section will be filled with notes and links relevant to each class. 
+### Sept 1
+### Sept 8
+### Sept 15
+### Sept 22
+### Sept 29
+### Oct 6
+### Oct 13
+### Oct 20
+### Oct 27
+### Nov 3
+### Nov 10
+### Nov 17
+### Nov 24
+(🦃— no class)
+### Dec 1
+### Dec 8
+### Dec 15
+
 
 ## Resources {resources}
 
