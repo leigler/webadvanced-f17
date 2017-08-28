@@ -1,4 +1,4 @@
-showdown.setOption('noHeaderId', true);
+
 
 showdown.setOption('customizedHeaderId', true);
 
