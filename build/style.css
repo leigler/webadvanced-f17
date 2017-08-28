@@ -13,12 +13,12 @@ body, html{
 
 ::-moz-selection { /* Code for Firefox */
     color: black;
-    background: red;
+    background: purple;
 }
 
 ::selection {
     color: black; 
-    background: red;
+    background: purple;
 }
 
 
@@ -54,14 +54,14 @@ h2{
 	max-width: 1000px;
 	margin-bottom: 30px;
 	margin-top: 120px;
-	border-top: 1px solid red;
+	border-top: 1px solid purple;
 	padding-top: 15px;
 
 
 }
 
 
-p, h3, ul, h4{
+p, h3, ul, h4, .h3-wrapper, .h3-prepend{
 	position: relative;
 	width: 90vw;
 	margin: 0 auto;
@@ -83,12 +83,59 @@ h3{
 	font-style: italic;
 }
 
+	.h3-closed{
+		display: inline-block;
+		position: relative;
+		background-color: purple;
+		overflow: hidden;
+		width: 20px;
+		height: 20px;
+		border-radius: 10px;
+		margin-left: 10px;
+		margin-bottom: -1px;
+		transition: opacity 0.2s ease-out;
+		-webkit-transition: opacity 0.2s ease-out;
+		-moz-transition: opacity 0.2s ease-out;
+
+	}
+
+	#horizontal, #vertical{
+		position: absolute;
+		background-color: black;
+		border-radius: 2px;
+
+	}
+
+	#horizontal{
+		left: 3px;
+		top: 8px;
+		width: 14px;
+		height: 4px;
+
+	}
+
+	#vertical{
+		left: 8px;
+		top: 3px;
+		width: 4px;
+		height: 14px;
+	}
+
+	.h3-wrapper{
+		display: none;
+	}
+
 h4{
-	
-	/*box-sizing: border-box;
+	color: purple;
+	padding-left: 30px;
+	box-sizing: border-box;
     -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;*/
+    -moz-box-sizing: border-box;
 }
+
+
+
+
 
 
 p >img, img {
@@ -104,14 +151,7 @@ p >img, img {
 }
 
 
-h4{
-	display: block;
-	position: relative;
-	margin: 0 auto;
-	width: 85vw;
-	max-width: 830px;
 
-}
 
 h4 > img{
 
@@ -130,13 +170,15 @@ h4 > img{
 
 a{
 	text-decoration: none;
-	color: red;
+	color: purple;
 	transition: opacity 0.2s ease-out;
 	-webkit-transition: opacity 0.2s ease-out;
+	-moz-transition: opacity 0.2s ease-out;
 }
 
-a:hover{
+a:hover, .h3-closed:hover{
 	text-decoration: none;
 	opacity: 0.6;
+	cursor: pointer;
 }
 

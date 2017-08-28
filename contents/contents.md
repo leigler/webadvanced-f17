@@ -15,14 +15,11 @@ This course will focus on extending students&rsquo; knowledge of code to we
 ## Projects {projects}
 
 ## Schedule {schedule}
-As the semester continues, this section will be filled with notes and links relevant to each class. 
+#### As the semester continues, this section will be filled with notes and links relevant to each class. 
 ### Sept 1
-#### Introductions and some stuff like that
-Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Donec ullamcorper nulla non metus auctor fringilla.
-#### the second h4
 
 ### Sept 8
-#### and then i added stuff here
+
 hurray hurray
 ### Sept 15
 ### Sept 22
@@ -35,7 +32,7 @@ hurray hurray
 ### Nov 10
 ### Nov 17
 ### Nov 24
-([🦃](https://en.wikipedia.org/wiki/Thanksgiving)— no class)
+#### ([🦃](https://en.wikipedia.org/wiki/Thanksgiving)— no class)
 ### Dec 1
 ### Dec 8
 ### Dec 15
