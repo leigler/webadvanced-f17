@@ -61,7 +61,7 @@ h2{
 }
 
 
-p, h3, ul{
+p, h3, ul, h4{
 	position: relative;
 	width: 90vw;
 	margin: 0 auto;
@@ -81,6 +81,13 @@ ul{
 
 h3{
 	font-style: italic;
+}
+
+h4{
+	padding-left: 50px;
+	box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
 }
 
 
