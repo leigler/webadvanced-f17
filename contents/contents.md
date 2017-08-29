@@ -15,7 +15,7 @@ This course will focus on extending students&rsquo; knowledge of code to we
 ## Projects {projects}
 ### Homepage {homepage}
 #### Due Sept 8
-**Homepage**: Your first assignment will have two key elements:  _Index_ and _Hello, world_. 
+Your first assignment will have two key elements:  _Index_ and _Hello, world_. 
 
 _Index_: Take the github page that you set up in today’s class and convert it into a living index of your work over this semester.  Think about how this index will grow (is it a list of text-based hyperlinks? photos? patterns?, does each link look different than the next? What underlying system dictates how the page is formatted?).
 
@@ -34,7 +34,6 @@ _Hello, world_: For the first link on your index, design and program a [_hello, 
 ## Schedule + Class Notes {schedule}
 #### As the semester continues, this section will be filled with notes and links relevant to each class. 
 ### Sept 1
-#### Class Notes:
 #### Assignment: [Homepage](#homepage)
 ### Sept 8
 
