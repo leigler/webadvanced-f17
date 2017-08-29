@@ -17,37 +17,20 @@ $.when($.ajax({
 		var h3amount = $("h3").length
 		$("h3").each(function(){
 
-
-
-
-
-			var h3index = $( "h3" ).index( this )
-			
-
-
-			
+			var h3index = $( "h3" ).index( this )		
 
 			if (!$(this).next().is("h3")) {
-				$(this).nextUntil("h3").wrapAll("<span class='h3-wrapper'></span>")
+				$(this).nextUntil("h3, h2, h1").wrapAll("<span class='h3-wrapper'></span>")
 			 	$(this).wrap("<div class='h3-prepend'></div>")
 				$(this).after("<span class='h3-closed'><div id='horizontal'></div><div id='vertical'></div></span>")
 				$(this).css({"display" : "inline"})
 
 			}
 
-			if($this.parent(".h3-prepend").next().next().next().is("h3")){
+			if($(this).parent(".h3-prepend").next().next().next().is("h3, h2, h1") || $(this).parent(".h3-prepend").next().next().is("h2, h1")){
 				$(this).parent(".h3-prepend").next(".h3-wrapper").css({"display" : "block"})
-				$(this).sibling(".h3-closed").remove()
+				$(this).next(".h3-closed").remove()
 			}
-
- 			// if(h3index != h3amount -1 && !$(this).next().is("h3")){
-
-			 // 	$(this).nextUntil("h3").wrapAll("<span class='h3-wrapper'></span>")
-			 // 	$(this).wrap("<div class='h3-prepend'></div>")
-				// $(this).after("<span class='h3-closed'><div id='horizontal'></div><div id='vertical'></div></span>")
-				// $(this).css({"display" : "inline"})
-				
-			 // } 
 
 
 		})
