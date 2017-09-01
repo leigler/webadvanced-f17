@@ -1,7 +1,6 @@
 # Web Advanced: Javascript
 
-Throughout the semester, students will explore, design, and test their ideas for mobile and touch experiences through making sketches, storyboards, demos, and prototypes. We'll delve into the nuances of designing for touch screens, discuss navigation models and UI conventions, and explore how context of use and ergonomics influence design.
-This course will focus on extending students’ knowledge of code to web and cloud. Students will be learning JavaScript, the programming language of the Web. Students will be introduced to a variety of applications from user interactions, dynamic content organization, APIs, and the creation of desktop and mobile applications.
+This course will focus on extending students’ knowledge of code to web and cloud. Students will be learning JavaScript, the programming language of the Web. Students will be introduced to a variety of applications from user interactions, dynamic content organization, APIs, and the creation of desktop and mobile applications. We will look critically at the medium of software, dive into the cultural literature of web design, explore research and learning techniques, and develop a strong understanding for contemporary workflows and processes.
 
 ## Table of Contents
 
