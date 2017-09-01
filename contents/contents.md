@@ -19,10 +19,11 @@ In-Class
 - Introductions
 - Syllabus Review
 - HTML + CSS check-in
-- github introduction/setup
+- [github introduction/setup](https://docs.google.com/document/d/13w9SX8muVx_S_O68CkwPbYQyXs6xS_NiDVACYuKNBqg/)
 
 Assignment
 - [Homepage](#homepage)
+- Become comfortable with working in Cloud9
 
 ### Sept 8
 ### Sept 15
@@ -46,12 +47,11 @@ Assignment
 
 ### 1. Homepage {homepage}
 #### (Due Sept 8)
-Your first assignment will have two key elements:  _Index_ and _Hello, world_. 
+Your first assignment will have two key elements: _Index_ and _Hello, world_. 
 
 _Index_: Take the github page that you set up in today’s class and convert it into a living index of your work over this semester.  Think about how this index will grow (is it a list of text-based hyperlinks? photos? patterns?, does each link look different than the next? What underlying system dictates how the page is formatted?).
 
-_Hello, world_: For the first link on your index, design and program a [_hello, world_](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program) site. Find a piece of content whose copyright has expired, or that is under a creative commons license (resources include [ubuweb](http://www.ubu.com/), [archive.org](https://archive.org/), and [Encyclopédie Diderot](https://quod.lib.umich.edu/d/did/)).  This content should somehow be meaningful to you. Using your knowledge of HTML and CSS (and Javascript 🙃), design and program a re-publishing/remixing/re-interpreting of your content  that communicates your perspective and why you find this piece meaningful. This site should span at least 7 individual html pages. 
-
+_Hello, world_: For the first link on your index, design and program a [_hello, world_](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program) site. Find a piece of content whose copyright has expired, or that is under a creative commons license (resources include [ubuweb](http://www.ubu.com/), [archive.org](https://archive.org/), and [Encyclopédie Diderot](https://quod.lib.umich.edu/d/did/)).  This content should somehow be meaningful to you. Using your knowledge of HTML and CSS (and Javascript 🙃), design and program a re-publishing/remixing/re-interpreting of your content  that communicates your perspective and why you find this piece meaningful. This site should be multi-paged.
 
 Readings
 - [Vernacular Web 2](http://contemporary-home-computing.org/vernacular-web-2/) by Olia Lialina
