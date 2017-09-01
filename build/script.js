@@ -2,10 +2,18 @@
 
 showdown.setOption('customizedHeaderId', true);
 
+var liveURL = 'https://raw.githubusercontent.com/leigler/webadvanced-f17/master/contents/contents.md',
+	testURL = 'contents/contents.md'
+
 $.when($.ajax({
 	dataType: 'text',
-    url: "https://raw.githubusercontent.com/leigler/webadvanced-f17/master/contents/contents.md",
+    url: liveURL, 
     complete: function(r){
+
+    	/*
+			url for testing: 
+			url for live: 
+    	*/
 
     	var string = r.responseText
     	var converter = new showdown.Converter(),
@@ -27,7 +35,7 @@ $.when($.ajax({
 
 			}
 
-			if($(this).parent(".h3-prepend").next().next().next().is("h3, h2, h1") || $(this).parent(".h3-prepend").next().next().is("h2, h1")){
+			if($(this).parent(".h3-prepend").next().next().next().is("h3, h2, h1") || $(this).parent(".h3-prepend").next().next().is("h2, h1") || $(this).parent(".h3-prepend").next().is("h2, h1")){
 				$(this).parent(".h3-prepend").next(".h3-wrapper").css({"display" : "block"})
 				$(this).next(".h3-closed").remove()
 			}

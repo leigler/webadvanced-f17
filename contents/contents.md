@@ -1,42 +1,30 @@
-# Web Advanced
+# Web Advanced: Javascript
 
-
-This course will focus on extending students&rsquo; knowledge of code to web and cloud. Students will be learning JavaScript, the programming language of the Web. Students will be introduced to a variety of applications from server­side network programming, game development, and the creation of desktop and mobile applications.
+Throughout the semester, students will explore, design, and test their ideas for mobile and touch experiences through making sketches, storyboards, demos, and prototypes. We'll delve into the nuances of designing for touch screens, discuss navigation models and UI conventions, and explore how context of use and ergonomics influence design.
+This course will focus on extending students’ knowledge of code to web and cloud. Students will be learning JavaScript, the programming language of the Web. Students will be introduced to a variety of applications from user interactions, dynamic content organization, APIs, and the creation of desktop and mobile applications.
 
 ## Table of Contents
 
-- [Class Syllabus](contents/...)
-- [Projects](#projects) 
+- [Class Syllabus](contents/pdfs/PSAM_3210_A_EIGLER-HARDING_FA17.pdf)
 - [Schedule](#schedule)
+- [Projects](#projects) 
 - [Resources](#resources)
 - [Readings](#readings)
 
 
-## Projects {projects}
-### Homepage {homepage}
-#### Due Sept 8
-Your first assignment will have two key elements:  _Index_ and _Hello, world_. 
+## Schedule {schedule}
 
-_Index_: Take the github page that you set up in today’s class and convert it into a living index of your work over this semester.  Think about how this index will grow (is it a list of text-based hyperlinks? photos? patterns?, does each link look different than the next? What underlying system dictates how the page is formatted?).
-
-_Hello, world_: For the first link on your index, design and program a [_hello, world_](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program) site. Find a piece of content whose copyright has expired, or that is under a creative commons license (resources include [ubuweb](http://www.ubu.com/), [archive.org](https://archive.org/), and [Encyclopédie Diderot](https://quod.lib.umich.edu/d/did/)).  This content should somehow be meaningful to you. Using your knowledge of HTML and CSS (and Javascript 🙃), design and program a re-publishing/remixing/re-interpreting of your content  that communicates your perspective and why you find this piece meaningful. This site should span at least 7 individual html pages. 
-
-#### Readings
-- [Vernacular Web 2](http://contemporary-home-computing.org/vernacular-web-2/) by Olia Lialina
-
-#### References
-- [Y0UNG-HAE CHANG HEAVY INDUSTRIES](http://www.yhchang.com/)
-- [I'm Google](http://dinakelberman.tumblr.com/)
-- [My Boyfriend Came Back From the War](http://www.teleportacia.org/war/)
-
-
-
-## Schedule + Class Notes {schedule}
-#### As the semester continues, this section will be filled with notes and links relevant to each class. 
 ### Sept 1
-#### Assignment: [Homepage](#homepage)
-### Sept 8
+In-Class
+- Introductions
+- Syllabus Review
+- HTML + CSS check-in
+- github introduction/setup
 
+Assignment
+- [Homepage](#homepage)
+
+### Sept 8
 ### Sept 15
 ### Sept 22
 ### Sept 29
@@ -54,15 +42,34 @@ _Hello, world_: For the first link on your index, design and program a [_hello, 
 ### Dec 15
 
 
+## Projects {projects}
+
+### 1. Homepage {homepage}
+#### (Due Sept 8)
+Your first assignment will have two key elements:  _Index_ and _Hello, world_. 
+
+_Index_: Take the github page that you set up in today’s class and convert it into a living index of your work over this semester.  Think about how this index will grow (is it a list of text-based hyperlinks? photos? patterns?, does each link look different than the next? What underlying system dictates how the page is formatted?).
+
+_Hello, world_: For the first link on your index, design and program a [_hello, world_](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program) site. Find a piece of content whose copyright has expired, or that is under a creative commons license (resources include [ubuweb](http://www.ubu.com/), [archive.org](https://archive.org/), and [Encyclopédie Diderot](https://quod.lib.umich.edu/d/did/)).  This content should somehow be meaningful to you. Using your knowledge of HTML and CSS (and Javascript 🙃), design and program a re-publishing/remixing/re-interpreting of your content  that communicates your perspective and why you find this piece meaningful. This site should span at least 7 individual html pages. 
+
+
+Readings
+- [Vernacular Web 2](http://contemporary-home-computing.org/vernacular-web-2/) by Olia Lialina
+
+References
+- [Y0UNG-HAE CHANG HEAVY INDUSTRIES](http://www.yhchang.com/)
+- [I'm Google](http://dinakelberman.tumblr.com/)
+- [My Boyfriend Came Back From the War](http://www.teleportacia.org/war/)
+
+
 ## Resources {resources}
-#### A collection of links relevant to this class.
-#### Software
+Software
 - [Sublime Text Editor](https://www.sublimetext.com/)
 - [Github](https://github.com/)
 - [Github tutorial](https://www.atlassian.com/git)
 - [Cyberduck](https://cyberduck.io/)
 
-#### Programming
+Programming
 - [Mozilla](https://developer.mozilla.org/en-US/), [Stackoverflow.com](https://stackoverflow.com/), [W3 Schools](https://www.w3schools.com/)
 - [JQuery](http://jquery.com/)
 - [CodeAcademy— Javascript](https://www.codecademy.com/learn/learn-javascript)
@@ -70,17 +77,22 @@ _Hello, world_: For the first link on your index, design and program a [_hello, 
 - [Eloquent Javascript PDF](http://eloquentjavascript.net/)
 - [Learn CSS](http://learnlayout.com/)
 
-#### Fonts & Open Source
+Fonts & Open Source
 - [fonts.google](https://fonts.google.com/)
 - [use modify](http://usemodify.com/)
 - [velvetyne libre foundry](http://www.velvetyne.fr/)
 - [open foundry](http://open-foundry.com/hot30)
 
 ## Readings {readings}
-#### Additional readings relevant to this class
-- [The Source](http://www.coryarcangel.com/downloads/the-source-pizza-party-2013-138-digital-master-ih.pdf)
-- [Reversing the flow of Internet Expansion](http://extinct.ly/participants/#kev-bewersdorf)
-- [Why no one clicked on the great hypertext story](https://www.wired.com/2013/04/hypertext/)
+- [What is Code?](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/), Paul Ford
+- [The Source](http://www.coryarcangel.com/downloads/the-source-pizza-party-2013-138-digital-master-ih.pdf), Cory Arcangel
+- [Reversing the flow of Internet Expansion](http://extinct.ly/participants/#kev-bewersdorf), Kevin Bewersdorf
+- [Why no one clicked on the great hypertext story](https://www.wired.com/2013/04/hypertext/), Steven Johnson
+- [Research and Destroy: A plea for Design as Research](contents/pdf/van-der-Velden-research-and-destroy.pdf), Daniel van der Velden
+
+
+## Acknowledgements
+Thank you to Brendan Griffiths, Clement Valla, and Laurel Schwulst for setting excellent web-oriented class precedents.
 
 
 
