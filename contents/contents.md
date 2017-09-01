@@ -89,7 +89,9 @@ Fonts & Open Source
 - [Reversing the flow of Internet Expansion](http://extinct.ly/participants/#kev-bewersdorf), Kevin Bewersdorf
 - [Why no one clicked on the great hypertext story](https://www.wired.com/2013/04/hypertext/), Steven Johnson
 - [Research and Destroy: A plea for Design as Research](contents/pdf/van-der-Velden-research-and-destroy.pdf), Daniel van der Velden
-
+- [A Vernacular Web](http://art.teleportacia.org/observation/vernacular/)
+- [Vernacular Web 2](http://contemporary-home-computing.org/vernacular-web-2/)
+- [Prof. Dr. Style](http://contemporary-home-computing.org/prof-dr-style/)
 
 ## Acknowledgements
 Thank you to Brendan Griffiths, Clement Valla, and Laurel Schwulst for setting excellent web-oriented class precedents.
