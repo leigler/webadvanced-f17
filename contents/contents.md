@@ -2,7 +2,7 @@
 
 This course will focus on extending students’ knowledge of code to web and cloud. Students will be learning JavaScript, the programming language of the Web. Students will be introduced to a variety of applications from user interactions, dynamic content organization, APIs, and the creation of desktop and mobile applications. We will look critically at the medium of software, dive into the cultural literature of web design, explore research and learning techniques, and develop a strong understanding for contemporary workflows and processes.
 
-eigll343@newschool.edu
+My email is eigll343@newschool.edu.
 
 ## Table of Contents
 
