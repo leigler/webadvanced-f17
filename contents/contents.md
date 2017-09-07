@@ -1,7 +1,8 @@
 # Web Advanced: Javascript
 
-Throughout the semester, students will explore, design, and test their ideas for mobile and touch experiences through making sketches, storyboards, demos, and prototypes. We'll delve into the nuances of designing for touch screens, discuss navigation models and UI conventions, and explore how context of use and ergonomics influence design.
-This course will focus on extending students’ knowledge of code to web and cloud. Students will be learning JavaScript, the programming language of the Web. Students will be introduced to a variety of applications from user interactions, dynamic content organization, APIs, and the creation of desktop and mobile applications.
+This course will focus on extending students’ knowledge of code to web and cloud. Students will be learning JavaScript, the programming language of the Web. Students will be introduced to a variety of applications from user interactions, dynamic content organization, APIs, and the creation of desktop and mobile applications. We will look critically at the medium of software, dive into the cultural literature of web design, explore research and learning techniques, and develop a strong understanding for contemporary workflows and processes.
+
+My email is eigll343@newschool.edu.
 
 ## Table of Contents
 
@@ -51,7 +52,7 @@ Your first assignment will have two key elements: _Index_ and _Hello, world_.
 
 _Index_: Take the github page that you set up in today’s class and convert it into a living index of your work over this semester.  Think about how this index will grow (is it a list of text-based hyperlinks? photos? patterns?, does each link look different than the next? What underlying system dictates how the page is formatted?).
 
-_Hello, world_: For the first link on your index, design and program a [_hello, world_](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program) site. Find a piece of content whose copyright has expired, or that is under a creative commons license (resources include [ubuweb](http://www.ubu.com/), [archive.org](https://archive.org/), and [Encyclopédie Diderot](https://quod.lib.umich.edu/d/did/)).  This content should somehow be meaningful to you. Using your knowledge of HTML and CSS (and Javascript 🙃), design and program a re-publishing/remixing/re-interpreting of your content  that communicates your perspective and why you find this piece meaningful. This site should be multi-paged.
+_Hello, world_: For the first link on your index, design and program a [_hello, world_](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program) site. Find a piece of content whose copyright has expired, or that is under a creative commons license (resources include [ubuweb](http://www.ubu.com/), [archive.org](https://archive.org/), and [Encyclopédie Diderot](https://quod.lib.umich.edu/d/did/)).  This content should somehow be meaningful to you. Using your knowledge of HTML and CSS (and Javascript 🙃), design and program a re-publishing/remixing/re-interpreting of your content  that communicates your perspective and why you find this piece meaningful. This site should be multi-paged.*
 
 Readings
 - [Vernacular Web 2](http://contemporary-home-computing.org/vernacular-web-2/) by Olia Lialina
@@ -60,6 +61,9 @@ References
 - [Y0UNG-HAE CHANG HEAVY INDUSTRIES](http://www.yhchang.com/)
 - [I'm Google](http://dinakelberman.tumblr.com/)
 - [My Boyfriend Came Back From the War](http://www.teleportacia.org/war/)
+
+
+* to host your hello world site on github pages, follow the instructions [here](https://pages.github.com/) and link to the url  YOUR-USERNAME.github.io/YOUR-REPOSITORY-NAME. 
 
 
 ## Resources {resources}
@@ -89,7 +93,9 @@ Fonts & Open Source
 - [Reversing the flow of Internet Expansion](http://extinct.ly/participants/#kev-bewersdorf), Kevin Bewersdorf
 - [Why no one clicked on the great hypertext story](https://www.wired.com/2013/04/hypertext/), Steven Johnson
 - [Research and Destroy: A plea for Design as Research](contents/pdf/van-der-Velden-research-and-destroy.pdf), Daniel van der Velden
-
+- [A Vernacular Web](http://art.teleportacia.org/observation/vernacular/)
+- [Vernacular Web 2](http://contemporary-home-computing.org/vernacular-web-2/)
+- [Prof. Dr. Style](http://contemporary-home-computing.org/prof-dr-style/)
 
 ## Acknowledgements
 Thank you to Brendan Griffiths, Clement Valla, and Laurel Schwulst for setting excellent web-oriented class precedents.
