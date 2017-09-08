@@ -43,8 +43,6 @@ for (var i = 0; i < complexArray.length; i++) {
 }
 
 
-console.log("\n\n\n\n\n")
-
 /* SITE JS: */
 
 showdown.setOption('customizedHeaderId', true);
