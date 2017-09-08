@@ -8,7 +8,7 @@ var liveURL = 'https://raw.githubusercontent.com/leigler/webadvanced-f17/master/
 
 $.when($.ajax({
 	dataType: 'text',
-    url: testURL, 
+    url: liveURL, 
     complete: function(r){
 
     	/*

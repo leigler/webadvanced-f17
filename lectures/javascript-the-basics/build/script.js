@@ -29,6 +29,8 @@ var complexArray = ["roses are red", "pipes are lead", "the cat was fed", "i lik
 	complexArray3 = ["a successful business often has a steady source of revenue", "this poem will have to do", "Jerry Seinfeld Considering Bee Movie 2", "I like memes, how about you?", "would you like your coffee french press or cold brew?"],
 	complexArray4 = ["post-Thanksgiving has me feeling overfed", "it's hard to sew when you've run out of thread" , "in England you'll occassionally see an old skinhead", "i swear all of these strings were proofread", "if you search in the forest occassionally you'll find an arrowhead"];
 
+
+
 for (var i = 0; i < complexArray.length; i++) {
 
 	if (complexArray[i].length > complexArray2[i].length){	
@@ -41,6 +43,7 @@ for (var i = 0; i < complexArray.length; i++) {
 }
 
 
+console.log("\n\n\n\n\n")
 
 /* SITE JS: */
 
@@ -51,7 +54,7 @@ var liveURL = 'https://raw.githubusercontent.com/leigler/webadvanced-f17/master/
 
 $.when($.ajax({
 	dataType: 'text',
-    url: testURL, 
+    url: liveURL, 
     complete: function(r){
 
     	/*
