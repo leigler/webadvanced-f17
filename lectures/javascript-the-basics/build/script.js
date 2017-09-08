@@ -48,9 +48,10 @@ for (var i = 0; i < complexArray.length; i++) {
 showdown.setOption('customizedHeaderId', true);
 
 var liveURL = 'https://raw.githubusercontent.com/leigler/webadvanced-f17/master/lectures/javascript-the-basics/contents/contents.md',
-	testURL = 'contents/contents.md'
+	testURL = 'contents/contents.md';
 
 	// webadvanced-f17/lectures/javascript-the-basics/contents/contents.md
+	// webadvanced-f17/master/lectures/javascript-the-basics/contents/contents.md
 
 $.when($.ajax({
 	dataType: 'text',
