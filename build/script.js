@@ -1,3 +1,4 @@
+console.log("Web Advanced: Javascript")
 
 
 showdown.setOption('customizedHeaderId', true);
@@ -7,7 +8,7 @@ var liveURL = 'https://raw.githubusercontent.com/leigler/webadvanced-f17/master/
 
 $.when($.ajax({
 	dataType: 'text',
-    url: liveURL, 
+    url: testURL, 
     complete: function(r){
 
     	/*
@@ -38,6 +39,9 @@ $.when($.ajax({
 			if($(this).parent(".h3-prepend").next().next().next().is("h3, h2, h1") || $(this).parent(".h3-prepend").next().next().is("h2, h1") || $(this).parent(".h3-prepend").next().is("h2, h1")){
 				$(this).parent(".h3-prepend").next(".h3-wrapper").css({"display" : "block"})
 				$(this).next(".h3-closed").remove()
+				//var h3content = $(this)
+				$(this).css({"display" : "block"})
+				$(this).parent(".h3-prepend").replaceWith($(this))
 			}
 
 

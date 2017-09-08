@@ -89,7 +89,7 @@ ul{
 
 h3{
 	font-style: italic;
-
+	margin-top: 45px;
 
 }
 
@@ -163,8 +163,8 @@ p >img, img {
 p > code{
 	padding: 5px;
 	border-radius: 5px;
-	color: black;
-	background-color: lightgray;
+	
+	background-color: white;
 }
 
 
@@ -200,9 +200,10 @@ code{
 
 pre{
 	color: clear;
-	background-color: lightgray;
+	background-color: white;
 	border-radius: 5px;
 	padding: 10px;
+	padding-left: 20px;
 	padding-bottom: 20px;
 	box-sizing: border-box;
 	-webkit-box-sizing: border-box;
