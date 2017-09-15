@@ -12,8 +12,10 @@ eigll343@newschool.edu
 - [Schedule](#schedule)
 - [Projects](#projects) 
 - [Lectures](#lectures)
+- [Students](#students)
 - [Resources](#resources)
 - [Readings](#readings)
+
 
 ## Schedule {schedule}
 
@@ -94,6 +96,23 @@ References
 ## Lectures {lectures}
 
 - [Javascript: The Basics](/lectures/javascript-the-basics)
+
+
+## Students {students}
+
+- [Connie Chu](https://chuc555.github.io/)
+- [Emily Frank](https://frane528.github.io/webadvanced/index.html)
+- [Mollie Gold](https://molliegold.github.io/webadvanced/)
+- [Esther Klingbiel](https://estherklingbiel.github.io/webadvanced.github.io/homepage/)
+- [Julia Lassen](https://lassj993.github.io/web-advanced/)
+- [Tiffany Lee](https://tiffanyvlee.github.io/webadvanced/)
+- [Tina Li](https://tinayanli.github.io/webadvanced/index.html)
+- Elaine Matthias
+- [Kaisha Murzamadiyeva](https://murzk035.github.io/)
+- [Jack Rieger](https://riegj814.github.io/)
+- [Yuqi Wang](http://www.yuqiwang.graphics/web-advanced/)
+- [Blair Zhang](https://blairyuezhang.github.io/web_advanced/)
+
 
 ## Resources {resources}
 Software
