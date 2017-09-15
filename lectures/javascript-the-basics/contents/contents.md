@@ -255,7 +255,7 @@ myNum < altNum
 ```
 
 
-### If/elseif Statement
+### If/else if Statement
 
 ```javascript
 
@@ -263,7 +263,7 @@ myNum < altNum
 
 		// do something
 	
-	}elseif(false) {
+	}else if(false) {
 
 		// do something
 	

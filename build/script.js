@@ -11,11 +11,6 @@ $.when($.ajax({
     url: liveURL, 
     complete: function(r){
 
-    	/*
-			url for testing: 
-			url for live: 
-    	*/
-
     	var string = r.responseText
     	var converter = new showdown.Converter(),
 		text      = string,
