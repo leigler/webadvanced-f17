@@ -125,6 +125,7 @@ Further References
 - [Geogoo by JODI](http://geogoo.net/)
 
 ### 2c. Hidden Pattern Interface {patternpart3}
+#### (Due Sept 29)
 For the third week of your Hidden Pattern assignment you will create a context for your javascript console pattern. Using your knowledge of HTML and CSS, and your new knowledge of javascript&rsquo;s ability to manipulate the DOM, design and develop a responsive interface for your pattern. 
 
 Questions to Consider
