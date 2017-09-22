@@ -49,6 +49,14 @@ Assignment
 - [Hidden Pattern (pt. 2)](#patternpart2)
 
 ### Sept 22
+In-Class
+- [Javascript: Advanced and JQuery](/lectures/javascript-advanced)
+- in-class exercise
+- Review Hidden Pattern (pt. 2)
+
+Assignment
+- [Hidden Pattern (interface)](#patternpart3)
+
 ### Sept 29
 ### Oct 6
 ### Oct 13
@@ -82,7 +90,7 @@ References
 - [My Boyfriend Came Back From the War](http://www.teleportacia.org/war/)
 
 
-### 2. Hidden Pattern Part 1{pattern}
+### 2a. Hidden Pattern Part 1{pattern}
 #### (Due Sept 15) 
 Write a JavaScript program which uses loops and if statements to create a pattern in the Chrome Console. Consider how the program might change as it iterates through an array or number of increasing value. Attach your JavaScript program to an HTML page and post it to your GitHub repository prior to our next meeting. 
 
@@ -100,11 +108,11 @@ References
 - [Cheet.js](http://lou.wtf/cheet.js/) to activate basic motions
 - [Styling the Console](https://konklone.com/post/how-to-hack-the-developer-console-to-be-needlessly-interactive) for how to use (limited) css in the console.
 
-### 2a. Hidden Pattern Part 2 {patternpart2}
+### 2b. Hidden Pattern Part 2 {patternpart2}
 #### (Due Sept 22)
 For part 2 of the Hidden Pattern assignment, revisit your console-based javascript program. Animate your pattern using javascript&rsquo;s setTimeout method and consider the feedback you received in class. Especially now that you&rsquo;re introducing movement, think about your pattern&rsquo;s narrative arc and how the pattern unfolds overtime in the browser&rsquo;s console. 
 
-Questions to consider
+Questions to Consider
 - With what pace does your pattern reveal itself?
 - What variables can influence your setTimeout method?
 - Are there elements that stay the same? If so, what do they offer to the rest of the pattern?
@@ -116,11 +124,21 @@ Further References
 - [Nicolas Sassoon&rsquo;s immersive web drawings](http://nicolassassoon.com/)
 - [Geogoo by JODI](http://geogoo.net/)
 
+### 2c. Hidden Pattern Interface {patternpart3}
+For the third week of your Hidden Pattern assignment you will create a context for your javascript console pattern. Using your knowledge of HTML and CSS, and your new knowledge of javascript&rsquo;s ability to manipulate the DOM, design and develop a responsive interface for your pattern. 
+
+Questions to Consider
+- How does your interface prepare the user of your site for your pattern?
+- How does the interface on your site respond to the opening of the console?
+- How does your pattern respond to your interface? 
+
+
+
 ## Lectures {lectures}
 
 - [Javascript: The Basics](/lectures/javascript-the-basics)
 - [Javascript: Timing and Randomness](/lectures/javascript-timing)
-
+- [Javascript: Advanced and JQuery](/lectures/javascript-advanced)
 
 ## Students {students}
 

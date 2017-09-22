@@ -72,7 +72,7 @@ Rounds down to the largest integer less than or equal to our input, in this case
 
 In order to generate a random integer between 0 and 10:
 
-`Math.floor(Math.round() * 10)`
+`Math.floor(Math.random() * 10)`
 
 
 ### Timing Console Log
