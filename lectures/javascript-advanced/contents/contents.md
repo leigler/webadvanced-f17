@@ -440,3 +440,6 @@ jQuery's `each` function has similar potential:
 
 (Increases the opacity of `.box` by 10% and the rotation by 30 degrees with each iteration of the loop.)
 
+
+Your in-class exercise can be [downloaded here](contents/zips/demo.zip).
+
