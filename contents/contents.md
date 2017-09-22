@@ -150,7 +150,7 @@ Questions to Consider
 - [Julia Lassen](https://lassj993.github.io/web-advanced/)
 - [Tiffany Lee](https://tiffanyvlee.github.io/webadvanced/)
 - [Tina Li](https://tinayanli.github.io/webadvanced/index.html)
-- Elaine Matthias
+- [Elaine Matthias](https://elainem.github.io/)
 - [Kaisha Murzamadiyeva](https://murzk035.github.io/)
 - [Jack Rieger](https://riegj814.github.io/)
 - [Yuqi Wang](http://www.yuqiwang.graphics/web-advanced/)
