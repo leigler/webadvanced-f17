@@ -86,10 +86,15 @@ var counter = 0;
 
 for (var i = 0; i < 10; i++) {
     setTimeout(function(){ 
-        console.log("Hello World " + Math.random()*5); 
+        console.log("Hello World " + Math.random()*5);
+
+        console.log(counter) // allows you to iterate through the setTimeOut method
+        
+        counter++;
+
     }, timer);
     timer += 100;
-    counter++;
+    
 }
 
 
