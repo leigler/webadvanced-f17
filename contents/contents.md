@@ -58,6 +58,15 @@ Assignment
 - [Hidden Pattern (interface)](#patternpart3)
 
 ### Sept 29
+In-Class
+- Javascript and jQuery recap
+- [JS Libraries](/lectures/libraries)
+- in-class exercise (JS Libraries)
+- Review Hidden Pattern (interface) in groups
+
+Assignment
+- [Hidden Pattern (final form)](#patternpart4)
+
 ### Oct 6
 ### Oct 13
 ### Oct 20
@@ -133,6 +142,9 @@ Questions to Consider
 - How does the interface on your site respond to the opening of the console?
 - How does your pattern respond to your interface? 
 
+### 2d. Hidden Pattern Final Revisions {patternpart4}
+#### (Due Oct 6)
+Take the feedback your classmates gave you this week to finalize your Hidden Pattern. 
 
 
 ## Lectures {lectures}
@@ -140,6 +152,7 @@ Questions to Consider
 - [Javascript: The Basics](/lectures/javascript-the-basics)
 - [Javascript: Timing and Randomness](/lectures/javascript-timing)
 - [Javascript: Advanced and JQuery](/lectures/javascript-advanced)
+- [Javascript: Libraries pt. 1](/lectures/libraries)
 
 ## Students {students}
 
