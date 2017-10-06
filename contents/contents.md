@@ -68,6 +68,15 @@ Assignment
 - [Hidden Pattern (final form)](#patternpart4)
 
 ### Oct 6
+In-Class
+- Hidden Pattern Critique
+- [JS Cookies Lecture](/lectures/cookies)
+- In-class exercise
+- _Loop_ introduction
+
+Assignment
+- [Loop (sketches)](#looppart1)
+
 ### Oct 13
 ### Oct 20
 ### Oct 27
@@ -147,12 +156,24 @@ Questions to Consider
 Take the feedback your classmates gave you this week to finalize your Hidden Pattern. 
 
 
+### 3. Loop {looppart1}
+#### (Due Oct 13)
+Using your knowledge of Javascript so far, design and develop a single-serve website that utilizes cookies. Using at least one non-standard input (i.e. other than a mouse click), this website should exhibit a narrative loop in which the end-user feels like they are progressing despite engaging in a (endlessly looping) pattern of action. 
+
+For next week, come in with several single-serve sketches that illustrate the narrative loop you intend to exhibit. 
+
+Readings
+- [Over the Bridge](http://digital-strategies.ma-ad.ch/article/overthebridge/) by Rob Giampietro
+- [The Garden of Forking Paths](http://www.coldbacon.com/writing/borges-garden.html#_jmp0_) by Jorge Luis Borges
+
+
 ## Lectures {lectures}
 
 - [Javascript: The Basics](/lectures/javascript-the-basics)
 - [Javascript: Timing and Randomness](/lectures/javascript-timing)
 - [Javascript: Advanced and JQuery](/lectures/javascript-advanced)
 - [Javascript: Libraries pt. 1](/lectures/libraries)
+- [Javascript: Cookies](/lectures/cookies)
 
 ## Students {students}
 
