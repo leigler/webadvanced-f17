@@ -75,9 +75,16 @@ In-Class
 - _Loop_ introduction
 
 Assignment
-- [Loop (sketches)](#looppart1)
+- [Loop (Sketches)](#looppart1)
 
 ### Oct 13
+In-Class
+- Work Session with [JS Libraries: p5.js and Greensock](/lectures/libraries2)
+- Individual Meetings
+
+Assignment
+- [Loop (Live Sketches)](#looppart2)
+
 ### Oct 20
 ### Oct 27
 ### Nov 3
@@ -156,7 +163,7 @@ Questions to Consider
 Take the feedback your classmates gave you this week to finalize your Hidden Pattern. 
 
 
-### 3. Loop {looppart1}
+### 3a. Loop {looppart1}
 #### (Due Oct 13)
 Using your knowledge of Javascript so far, design and develop a single-serve website that utilizes cookies. Using at least one non-standard input (i.e. other than a mouse click), this website should exhibit a narrative loop in which the end-user feels like they are progressing despite engaging in a (endlessly looping) pattern of action. 
 
@@ -167,6 +174,28 @@ Readings
 - [The Garden of Forking Paths](http://www.coldbacon.com/writing/borges-garden.html#_jmp0_) by Jorge Luis Borges
 
 
+### 3b. Loop (Live Sketches) {looppart2}
+#### (Due Oct 20)
+Begin to code the static sketches you brought in today. Use this week to experiment with different ways to build your sketches, and focus on harnessing the core interaction. Once you&rsquo;ve built some sketches, let others try the site out— get feedback and listen to what you can improve.
+For next week, code two of your sketches— while they can be rough around the edges, we will want to test them out to give proper feedback.
+
+Readings
+- [isthisyourpaperonsingleservingsites.com](http://isthisyourpaperonsingleservingsites.com/)
+
+Reference Sites
+- [sometimesredsometimesblue.com/](http://sometimesredsometimesblue.com/)
+- [whatcoloristheempirestatebuilding.com/](http://whatcoloristheempirestatebuilding.com/)
+- [www.howmanypeopleareinspacerightnow.com/](http://www.howmanypeopleareinspacerightnow.com/)
+- [Race Condition](http://race-condition.net/) by Jonas Lund
+- [Wishing Well](http://wishingwell.biz/) by Jonas Lund
+- [WYSIWYG.net](http://whatyouseeiswhatyouget.net/) by Jonas Lund
+- [Over and Over Again](http://overandoveragain.net/) by Jonas Lund
+- [wwwwwwwwwwwwww.net/](http://wwwwwwwwwwwwww.net/) by Jonas Lund
+- [Rafaël Rozendaal](http://www.newrafael.com/websites/)
+- [Geogoo by JODI](http://geogoo.net/)
+- [clickclickclick.click](https://clickclickclick.click)
+
+
 ## Lectures {lectures}
 
 - [Javascript: The Basics](/lectures/javascript-the-basics)
@@ -174,6 +203,7 @@ Readings
 - [Javascript: Advanced and JQuery](/lectures/javascript-advanced)
 - [Javascript: Libraries pt. 1](/lectures/libraries)
 - [Javascript: Cookies](/lectures/cookies)
+- [JS Libraries: p5.js and Greensock](/lectures/libraries2)
 
 ## Students {students}
 
