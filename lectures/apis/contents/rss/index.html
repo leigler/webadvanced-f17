@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>YQL Examples</title>
+  </head>
+  <body>
+    <!--https://developer.yahoo.com/yql/-->
+
+    <div>
+      <h1>Table of Contents</h1>
+      <ul>
+        <li><a href="#times">The New York Times: Art and Design and RSS Feed</a></li>
+        <li><a href="#river-mis">National Weather Service RSS on Mississippi River Conditions</a></li>
+      </ul>
+    </div>
+
+    <div id="times"></div>
+    <div id="river-mis"></div>
+
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+    <script src="jquery.query-yql.min.js"></script>
+    <script type="text/javascript">
+      $(function () {
+        
+
+        var t = $('#times').empty();
+        var statement = "select * from feed where url='http://rss.nytimes.com/services/xml/rss/nyt/ArtandDesign.xml'";
+        $.queryYQL(statement, "json", undefined, function (data) {
+          // do something with "data".
+          //console.log(data.query.results.item);
+
+          $("#times").append("<h1>The New York Time: Art and Design RSS Feed</h1>")
+            
+            for (var i = 0; i < data.query.results.item.length; i++) {
+              
+            console.log(data.query.results.item[i])
+
+            $("#times").append( "<h2>" + data.query.results.item[i].title + "</h2><h3>" + data.query.results.item[i].pubDate + "</h3><p>" + data.query.results.item[i].description + "</p>")
+
+            }
+
+        });
+
+
+        var tniStatement = "select * from feed where url='https://water.weather.gov/ahps2/rss/obs/ms.rss'";
+        $.queryYQL(tniStatement, "json", undefined, function (data) {
+          // do something with "data".
+          console.log(data.query.results.item);
+
+          $("#river-mis").append("<h1>National Weather Service RSS on Mississippi River Conditions</h1>")
+            
+            for (var i = 0; i < 10; i++) {
+              
+              console.log(data.query.results.item[i])
+
+              $("#river-mis").append( "<h2>" + data.query.results.item[i].title + "</h2><h3>" + data.query.results.item[i].pubDate + "</h3><p>" + data.query.results.item[i].description + "</p>")
+
+            }
+
+        });
+
+
+
+ 
+      });
+    </script>
+  </body>
+</html>

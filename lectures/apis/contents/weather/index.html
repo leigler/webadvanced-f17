@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Yahoo! Weather API</title>
+
+        <style>
+        
+        body {
+            background-color: darkblue;
+        }
+        
+        .sunrise{
+            display: block;
+            position: fixed;
+            top: 0px;
+            width: 0vw;
+            height: 100vh;
+
+            -transition: width 1.5s, left 0.5s;
+            -webkit-transition: width 1.5s, left 0.5s;
+            -moz-transition: width 1.5s, left 0.5s;
+        }
+
+
+        .sunrise{
+            left: 0px;
+            background-color: yellow;
+        }
+
+        .sunrise-info, .sunset-info{
+            position: absolute;
+            bottom: 10px;
+            color: red;
+            font-weight: normal;
+        }
+
+        .sunrise-info{
+            left: 20px;
+        }
+
+        .sunset-info{
+            right: 20px;
+        }
+
+        .title{
+            position: fixed;
+            display: block;
+            z-index: 10;
+            width: 100vw;
+            text-align: center;
+            color: red;
+            font-size: 40px;
+        }
+
+
+        </style>
+
+</head>
+    <body>
+
+        <div class="title">New York<br>Sunlight</div>
+        <div class="sunrise">
+            <h2 class="sunrise-info"></h2>
+            <h2 class="sunset-info"></h2>
+        </div>
+
+
+        
+        
+    
+
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
+        <script src="js/tutorial.js"></script>
+    </body>
+</html>

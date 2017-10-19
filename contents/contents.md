@@ -86,6 +86,13 @@ Assignment
 - [Loop (Live Sketches)](#looppart2)
 
 ### Oct 20
+In-Class
+- [Intro to APIs](/lectures/apis)
+- Class Review of Live Sketches
+
+Assignment
+- [Loop (Prototype)](#looppart3)
+
 ### Oct 27
 ### Nov 3
 ### Nov 10
@@ -194,6 +201,11 @@ Reference Sites
 - [Rafaël Rozendaal](http://www.newrafael.com/websites/)
 - [Geogoo by JODI](http://geogoo.net/)
 - [clickclickclick.click](https://clickclickclick.click)
+
+### 3c. Loop (Prototype) {looppart3}
+#### (Due Oct 27)
+Based on our group discussion in class today, continue to develop your project out it in full. 
+For next week you should have a working prototype.
 
 
 ## Lectures {lectures}
