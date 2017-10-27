@@ -94,6 +94,13 @@ Assignment
 - [Loop (Prototype)](#looppart3)
 
 ### Oct 27
+In-Class
+- Loop Check-in
+- [Google Maps API](/lectures/apis-google)
+
+Assignment
+- [Loop (Final)](#looppart4)
+
 ### Nov 3
 ### Nov 10
 ### Nov 17
@@ -208,6 +215,9 @@ Based on our group discussion in class today, continue to develop your project o
 For next week you should have a working prototype.
 
 
+### 3d. Loop (Final) {looppart4}
+Take the feedback from today&rsquo;s class and finalize your Loop Project.
+
 ## Lectures {lectures}
 
 - [Javascript: The Basics](/lectures/javascript-the-basics)
@@ -216,6 +226,8 @@ For next week you should have a working prototype.
 - [Javascript: Libraries pt. 1](/lectures/libraries)
 - [Javascript: Cookies](/lectures/cookies)
 - [JS Libraries: p5.js and Greensock](/lectures/libraries2)
+- [Intro to APIs](/lectures/apis)
+- [Google Maps API](/lectures/apis-google)
 
 ## Students {students}
 
@@ -263,7 +275,9 @@ Fonts & Open Source
 - [A Vernacular Web](http://art.teleportacia.org/observation/vernacular/), Olia Lialina 
 - [Vernacular Web 2](http://contemporary-home-computing.org/vernacular-web-2/), Olia Lialina
 - [Prof. Dr. Style](http://contemporary-home-computing.org/prof-dr-style/), Olia Lialina
-
+- [isthisyourpaperonsingleservingsites.com](http://isthisyourpaperonsingleservingsites.com/)
+- [Over the Bridge](http://digital-strategies.ma-ad.ch/article/overthebridge/) by Rob Giampietro
+- [The Garden of Forking Paths](http://www.coldbacon.com/writing/borges-garden.html#_jmp0_) by Jorge Luis Borges
 
 ## Acknowledgements
 Thank you to Brendan Griffiths, Clement Valla, and Laurel Schwulst for setting excellent web-oriented class precedents.
