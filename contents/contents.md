@@ -103,7 +103,7 @@ Assignment
 
 ### Nov 3
 In-Class
-- Review APIs and RSS Feeds
+- [Review APIs and RSS Feeds](/lectures/apis)
 - [Google Maps API](/lectures/apis-google)
 - [Responsive Web Lecture](/lectures/responsive-web)
 - In-Class Assignment
