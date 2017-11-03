@@ -160,10 +160,10 @@ p >img, img {
 
 }
 
-p > code{
+p > code, li > code{
 	padding: 5px;
 	border-radius: 5px;
-	
+	color: black;
 	background-color: white;
 }
 

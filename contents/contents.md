@@ -96,12 +96,23 @@ Assignment
 ### Oct 27
 In-Class
 - Loop Check-in
-- [Google Maps API](/lectures/apis-google)
+- Loop Individual Critiques + Work Session
 
 Assignment
 - [Loop (Final)](#looppart4)
 
 ### Nov 3
+In-Class
+- Review APIs and RSS Feeds
+- [Google Maps API](/lectures/apis-google)
+- [Responsive Web Lecture](/lectures/responsive-web)
+- In-Class Assignment
+- Introduction of Final Project
+
+Assignment
+- [Loop (Final)](#looppart5)
+- [Final Project (Sketches)](#final)
+
 ### Nov 10
 ### Nov 17
 ### Nov 24 ([🦃](https://en.wikipedia.org/wiki/Thanksgiving)— no class)
@@ -215,8 +226,26 @@ Based on our group discussion in class today, continue to develop your project o
 For next week you should have a working prototype.
 
 
-### 3d. Loop (Final) {looppart4}
+### 3d. Loop () {looppart4}
 Take the feedback from today&rsquo;s class and finalize your Loop Project.
+
+### 3e. Loop (Final) {looppart5}
+Finalize your project and prepare for next week&rsquo;s critique.
+
+### 4. Final Project {final}
+For this assignment you will be making an interactive and living website with at least one API and a secondary source of content (either static or an additional API). You may use any of the APIs we went over in class or one from your own research. Think carefully about how you contextualize and combine your content and what kind of interactions you supply the end-user with. How might the pairing of your selected content reveal new meaning? How does the website react to the API over time? What do the type of user interactions imply about your perspective?
+
+Requirements
+- Uses at least one API
+- Contains at least two content types
+- Is responsive (works on desktop and mobile)
+- Changes over time
+
+References
+- [Uncreative Writing](contents/pdfs/Kenneth-Goldsmith_uncreative-writing.pdf) by Kenneth Goldsmith (founder of [ubu.com](http://ubu.com/))
+- [Racter: Policemans Beard is Half Constructed ](contents/pdfs/RACTER_Policemans-Beard.pdf)
+- [Dispersion](contents/pdfs/Dispersion2016.pdf) by Seth Price
+
 
 ## Lectures {lectures}
 
@@ -228,6 +257,7 @@ Take the feedback from today&rsquo;s class and finalize your Loop Project.
 - [JS Libraries: p5.js and Greensock](/lectures/libraries2)
 - [Intro to APIs](/lectures/apis)
 - [Google Maps API](/lectures/apis-google)
+- [Responsive Web](/lectures/responsive-web)
 
 ## Students {students}
 
@@ -278,6 +308,10 @@ Fonts & Open Source
 - [isthisyourpaperonsingleservingsites.com](http://isthisyourpaperonsingleservingsites.com/)
 - [Over the Bridge](http://digital-strategies.ma-ad.ch/article/overthebridge/) by Rob Giampietro
 - [The Garden of Forking Paths](http://www.coldbacon.com/writing/borges-garden.html#_jmp0_) by Jorge Luis Borges
+- [isthisyourpaperonsingleservingsites.com](http://isthisyourpaperonsingleservingsites.com/)
+- [Uncreative Writing](contents/pdfs/Kenneth-Goldsmith_uncreative-writing.pdf) by Kenneth Goldsmith (founder of [ubu.com](http://ubu.com/))
+- [Racter: Policemans Beard is Half Constructed ](contents/pdfs/RACTER_Policemans-Beard.pdf)
+- [Dispersion](contents/pdfs/Dispersion2016.pdf) by Seth Price
 
 ## Acknowledgements
 Thank you to Brendan Griffiths, Clement Valla, and Laurel Schwulst for setting excellent web-oriented class precedents.
