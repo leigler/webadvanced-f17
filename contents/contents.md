@@ -114,6 +114,13 @@ Assignment
 - [Final Project (Sketches)](#final)
 
 ### Nov 10
+In-Class
+- Loop Final Review
+- Final Project Feedback
+
+Assignment
+- [Final Project (Prototypes)](#finalweek2)
+
 ### Nov 17
 ### Nov 24 ([🦃](https://en.wikipedia.org/wiki/Thanksgiving)— no class)
 ### Dec 1
@@ -232,7 +239,7 @@ Take the feedback from today&rsquo;s class and finalize your Loop Project.
 ### 3e. Loop (Final) {looppart5}
 Finalize your project and prepare for next week&rsquo;s critique.
 
-### 4. Final Project {final}
+### 4a. Final Project {final}
 For this assignment you will be making an interactive and living website with at least one API and a secondary source of content (either static or an additional API). You may use any of the APIs we went over in class or one from your own research. Think carefully about how you contextualize and combine your content and what kind of interactions you supply the end-user with. How might the pairing of your selected content reveal new meaning? How does the website react to the API over time? What do the type of user interactions imply about your perspective?
 
 Requirements
@@ -245,6 +252,11 @@ References
 - [Uncreative Writing](contents/pdfs/Kenneth-Goldsmith_uncreative-writing.pdf) by Kenneth Goldsmith (founder of [ubu.com](http://ubu.com/))
 - [Racter: Policemans Beard is Half Constructed ](contents/pdfs/RACTER_Policemans-Beard.pdf)
 - [Dispersion](contents/pdfs/Dispersion2016.pdf) by Seth Price
+
+
+### 4b. Final Project (Prototypes) {finalweek2}
+
+For next week, please refine your sketches and begin prototyping them. Continue finding figuring out how the site lives and grows, as well as how the site scales and reacts to different device sizes.
 
 
 ## Lectures {lectures}
