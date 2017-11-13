@@ -256,7 +256,7 @@ References
 
 ### 4b. Final Project (Prototypes) {finalweek2}
 
-For next week, please refine your sketches and begin prototyping them. Continue finding figuring out how the site lives and grows, as well as how the site scales and reacts to different device sizes.
+For next week, please refine your sketches and begin prototyping them. Continue resolving issues regarding how the site lives and grows, as well as how the site scales and reacts to different device sizes.
 
 
 ## Lectures {lectures}
