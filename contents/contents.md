@@ -122,6 +122,12 @@ Assignment
 - [Final Project (Prototypes)](#finalweek2)
 
 ### Nov 17
+In-Class
+- Work Session
+
+Assignment
+- [Final Project (Development)](#finalweek3)
+
 ### Nov 24 ([🦃](https://en.wikipedia.org/wiki/Thanksgiving)— no class)
 ### Dec 1
 ### Dec 8
@@ -258,6 +264,10 @@ References
 
 For next week, please refine your sketches and begin prototyping them. Continue resolving issues regarding how the site lives and grows, as well as how the site scales and reacts to different device sizes.
 
+
+### 4c. Final Project (Development) {finalweek3}
+
+For next class, please continue developing your project.
 
 ## Lectures {lectures}
 
